@@ -55,6 +55,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 4. **ModalPINN : an extension of Physics-Informed Neural Networks with enforced truncated Fourier decomposition for periodic flow reconstruction using a limited number of imperfect sensors**, * Ga´etan Raynaud , S´ebastien Houde, Fr´ed´erick P Gosselin*, Journal of Computational Physics, 2022. [[paper](https://doi.org/10.1016/j.jcp.2022.111271)]
 1. **∆-PINNs: physics-informed neural networks on complex geometries**, *Francisco Sahli Costabal, Simone Pezzuto, Paris Perdikaris*, **Arxiv**, 2022. [[paper](http://arxiv.org/pdf/2209.03984.pdf)]
 1. **Robust Regression with Highly Corrupted Data via Physics Informed Neural Networks**, *Wei Peng, Wen Yao, Weien Zhou, Xiaoya Zhang, Weijie Yao*, **ArXiv**, 2022. [[paper](http://arxiv.org/pdf/2210.10646.pdf)][[code](https://github.com/weipengOO98/robust_pinn)]
+2. **An Implicit GNN Solver for Poisson-like problems**, *Matthieu Nastorg, Michele-Alessandro Bucci, Thibault Faney, Jean-Marc Gratien, Guillaume Charpiat, Marc Schoenauer*, **ArXiv**, 2023. [[paper](http://export.arxiv.org/abs/2302.10891v2)]
+
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
@@ -81,6 +83,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 12. **A Novel Adaptive Causal Sampling Method for Physics-Informed Neural Networks**,  *Jia Guo, Haifeng Wang, Chenping Hou*, 	arXiv:2210.12914 [cs], 2022. [[paper](https://arxiv.org/pdf/2210.12914.pdf)]
 13. **Accelerated Training of Physics-Informed Neural Networks (PINNs) using Meshless Discretizations**,  *Ramansh Sharma, Varun Shankar*, 	NeurIPS, 2022. [[paper](https://arxiv.org/abs/2205.09332)]
 14. **Is L2 Physics-Informed Loss Always Suitable for Training Physics-Informed Neural Network**,  *Chuwei Wang, Shanda Li, Di He, Liwei Wang*, 	NeurIPS, 2022. [[paper](https://arxiv.org/abs/2206.02016)]
+15. **LSA-PINN: Linear Boundary Connectivity Loss for Solving PDEs on Complex Geometry**,  *Jian Cheng Wong, Pao-Hsiung Chiu, Chinchun Ooi, My Ha Dao, Yew-Soon Ong*, 	arXiv:2302.01518, 2023. [[paper](https://arxiv.org/abs/2302.01518)]
+15. **Physics-Informed Neural Networks for Mesh Deformation with Exact Boundary Enforcement**,  *A. Aygun, R. Maulik, A. Karakus*, 		arXiv:2301.05926 [physics.flu-dyn], 2023. [[paper](https://arxiv.org/abs/2301.05926)]
+
 
 
 ## Papers on Model Transfer & Meta-Learning
